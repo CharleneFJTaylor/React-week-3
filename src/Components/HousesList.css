@@ -1,0 +1,13 @@
+.header {
+    padding: 25px 0;
+    text-align: center;
+    background: rgb(247, 139, 139);
+    text-emphasis-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif ;
+  }
+
+
+* {
+   font-family: Cambria, Cochin, Georgia, Times, 'Cambria', serif ;
+   text-align: flex;
+}
